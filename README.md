@@ -19,7 +19,7 @@
 - Building intelligent systems that solve real-world challenges  
 - Collaborating on open-source and research-driven projects  
 - Exploring the intersection of embedded systems and AI  
-- Seeking internships in AI, ML, CV, or IoT domains  
+- Seeking internships in Computer Vision, Machine Learning,  or IoT domains  
 
 ---
 
