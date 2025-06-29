@@ -35,20 +35,21 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=venumigunasekara&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=venumigihansa&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venumigunasekara&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=venumigihansa&show_icons=true&theme=tokyonight&rank_icon=github" alt="Venumi's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=venumigunasekara&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venumigihansa&theme=tokyonight&hide_border=true" alt="Venumi's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venumigunasekara&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venumigihansa&layout=compact&theme=tokyonight" alt="Venumi's Top Languages" />
 </p>
+
 
 ---
 
